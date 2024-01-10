@@ -1,5 +1,5 @@
-<script>
-export default {}
+<script setup>
+
 </script>
 <template>
   <div class=" p-8 text-5xl font-extrabold text-center">

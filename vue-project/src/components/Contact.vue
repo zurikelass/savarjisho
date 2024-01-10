@@ -1,5 +1,5 @@
-<script>
-export default {}
+<script setup>
+
 </script>
 <template>
 <div class="flex p-4 bg-gray-800 text-white ">
@@ -14,10 +14,10 @@ export default {}
     </div>
     
     <div class="mb-4">
-      <label for="email" class="block text-white">მობილური: (+995) 551 10 11 12</label>
+      <label for="email" class="block text-white">მობილური: <a class="text-blue-800">(+995) 551 10 11 12</a></label>
     </div>
     <div class="mb-4">
-      <label for="email" class="block text-white">მეილი: ლეონარდოს_ფუნჯი@gmail.com</label>
+      <label for="email" class="block text-white">მეილი: <a class="text-blue-800">ლეონარდოს_ფუნჯი@gmail.com</a></label>
     </div>
   </div>
 
